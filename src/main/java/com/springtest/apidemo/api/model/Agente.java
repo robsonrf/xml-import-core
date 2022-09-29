@@ -16,5 +16,6 @@ public class Agente implements Serializable {
 
     private Long id;
 
+    // TODO não foi solicitado para salvar os valores em BD, portanto suprimi a persistência
 
 }
